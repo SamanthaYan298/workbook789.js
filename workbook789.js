@@ -10,8 +10,8 @@ console.log(averagePies); // 9
 var carOne = 50000;
 var carTwo = 25000;
 var carThree = 60000;
-var averageMiles = (carOne + carTwo + carThree)/4;
-console.log(averageMiles); // 33750
+var averageMiles = (carOne + carTwo + carThree)/3;
+console.log(averageMiles); // 45000
 
 // 7-3;
 var dayOne = 15000;
@@ -115,11 +115,11 @@ var area = PI * (radius**2)
 console.log(area);
 
 // 9-2-3-2;
-var numberDaysOfTheWeek = 7;
+var Number_Days_Of_The_Week = 7;
 var hoursADay = 5;
 var workedNumberWeeks = 3;
 var salary = 25.50;
-var total = numberDaysOfTheWeek * hoursADay * workedNumberWeeks * salary;
+var total = Number_Days_Of_The_Week * hoursADay * workedNumberWeeks * salary;
 console.log(total);
 
 // 9-3-0 Boolean;
